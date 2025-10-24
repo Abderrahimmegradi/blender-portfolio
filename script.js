@@ -1,4 +1,4 @@
-// Typing animation for hero text
+// Typing animation for hero textgit init
 const text = "Welcome to My Blender 3D World 🌐";
 let i = 0;
 function typingEffect() {
